@@ -8,7 +8,7 @@ Usamos 3 contenedores principales para estrucuturar la página (`header`, `secti
 
 Damos estilo `:hover` a los enlaces, los botones, la barra de búsqueda y las imágenes de arriba a la derecha
 
--Diseño original de Google:
+### -Diseño original de Google:
 ![Diseño original](./img_pages/original.jpg)
--Diseño realizado en el reto:
+### -Diseño realizado en el reto:
 ![Diseño hecho en el reto](./img_pages/design.jpg)
