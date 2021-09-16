@@ -1,6 +1,6 @@
 # Copia_Google
 
-##Realizamos una copia del diseño de la página de google.
+## Realizamos una copia del diseño de la página de google.
 
 Usamos `display:flex` para colocar cada elemento en el sitio que deseamos.
 
